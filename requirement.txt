@@ -1,0 +1,10 @@
+Flask
+keras
+librosa
+numpy
+pandas
+pickle
+scipy
+sklearn
+speechpy
+typing
